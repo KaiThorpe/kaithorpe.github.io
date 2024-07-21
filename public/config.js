@@ -1,1 +1,1 @@
-const CONFIG_BACKEND_URL = 'https://gim-kai-tracker.herokuapp.com:443'
+const CONFIG_BACKEND_URL = 'https://osrs-gimp-tracker-backend-production.up.railway.app:8081'
